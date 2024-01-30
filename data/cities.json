@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Elbasan",
+      "country": "Albania",
+      "emoji": "🇦🇱",
+      "date": "2023-12-22T14:39:55.313Z",
+      "notes": "",
+      "position": {
+        "lat": "41.1206443530612",
+        "lng": "20.09039095729378"
+      },
+      "id": 98443218
+    },
+    {
+      "cityName": "Teruel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-22T18:07:10.686Z",
+      "notes": "",
+      "position": {
+        "lat": "40.29628609050974",
+        "lng": "-1.0079947800902647"
+      },
+      "id": 98443219
+    },
+    {
+      "cityName": "Bydgoszcz",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-12-22T18:10:21.822Z",
+      "notes": "1",
+      "position": {
+        "lat": "53.11710885675613",
+        "lng": "18.034601997931507"
+      },
+      "id": 98443220
+    },
+    {
+      "cityName": "Kleczew",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-12-23T08:43:52.847Z",
+      "notes": "bylo super",
+      "position": {
+        "lat": "52.3698764708058",
+        "lng": "18.175359392810357"
+      },
+      "id": 98443221
+    },
+    {
+      "cityName": "Linkoping",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2023-12-24T12:08:13.824Z",
+      "notes": "2",
+      "position": {
+        "lat": "58.40700573488636",
+        "lng": "15.639092621678426"
+      },
+      "id": 98443222
+    },
+    {
+      "cityName": "Torun",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-12-24T12:08:56.940Z",
+      "notes": "bylo super\n",
+      "position": {
+        "lat": "53.007951237083965",
+        "lng": "18.643818070777474"
+      },
+      "id": 98443223
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-12-29T18:53:16.363Z",
+      "notes": "",
+      "position": {
+        "lat": "52.57634938931822",
+        "lng": "13.381460140564746"
+      },
+      "id": 98443224
+    },
+    {
+      "cityName": "Lemland",
+      "country": "Aland Islands",
+      "emoji": "🇦🇽",
+      "date": "2024-01-12T17:56:52.497Z",
+      "notes": "",
+      "position": {
+        "lat": "59.98891523188431",
+        "lng": "19.998212524327855"
+      },
+      "id": 98443225
+    },
+    {
+      "cityName": "Lemland",
+      "country": "Aland Islands",
+      "emoji": "🇦🇽",
+      "date": "2024-01-29T21:10:34.064Z",
+      "notes": "",
+      "position": {
+        "lat": "60.01863611199317",
+        "lng": "20.004043579101566"
+      },
+      "id": 98443226
+    }
+  ]
+}
